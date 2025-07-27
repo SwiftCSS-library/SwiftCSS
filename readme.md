@@ -19,22 +19,16 @@ SwiftCSS is a lightweight, modular, utility-first CSS framework designed to spee
 
 ---
 
-## Indice
+## Index
 
 - [🚀 Key Features](#-key-features)
+- [📦 Installation](#-installation)
 - [💡 Usage](#-usage)
 - [## 📚 Documentation](#-documentation)
 - [📄 License](#-license)
 - [🤝 Contributing](#-contributing)
-- [📦 Installation]()
-
-- #-list-of-things-do-do
-- #-contact
-- 
-- 
-- 
-- 
-- 
+- [📞 Contact](#-contact)
+- [📑 List of things do do](#-list-of-things-do-do)
 
 ---
 
