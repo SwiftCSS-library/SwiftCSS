@@ -103,7 +103,7 @@ SwiftCSS è un progetto **open source** e accogliamo con favore i contributi del
 
 7.  Apri una **Pull Request** descrivendo le tue modifiche.
 
-Per maggiori dettagli, consulta le nostre [Linee Guida per i Contributi](https://www.google.com/search?q=CONTRIBUTING.md).
+Per maggiori dettagli, consulta le nostre [Linee Guida per i Contributi](https://github.com/SwiftCSS-library/SwiftCSS/tree/main).
 
 -----
 
