@@ -2,7 +2,7 @@
 
 -----
 ![GitHub forks](https://img.shields.io/github/forks/SwiftCSS-library/SwiftCSS)
-![GitHub Repo stars](https://img.shields.io/github/stars/SwiftCSS-library/SwiftCSS)
+[![GitHub Repo stars](https://img.shields.io/github/stars/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
 [![Discord](https://img.shields.io/discord/1399102025509109770)](https://discord.gg/RYntYyuay7)
 ![GitHub Release](https://img.shields.io/github/v/release/SwiftCSS-library/SwiftCSS)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SwiftCSS-library/SwiftCSS/total)
