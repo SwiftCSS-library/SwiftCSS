@@ -40,6 +40,7 @@ Per iniziare rapidamente, puoi semplicemente aggiungere il link al foglio di sti
 ```html
 <link rel="stylesheet" href="http://node1.zampto.net:25625/SwiftCSS/css/v1.0/swiftcss-full.css" />
 ```
+<link rel="stylesheet" href="http://node1.zampto.net:25625/SwiftCSS/css/v1.0/swiftcss-full.css" />
 
 ### Download Manuale
 
