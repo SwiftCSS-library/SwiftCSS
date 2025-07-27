@@ -40,7 +40,6 @@ Per iniziare rapidamente, puoi semplicemente aggiungere il link al foglio di sti
 ```html
 <link rel="stylesheet" href="http://node1.zampto.net:25625/SwiftCSS/css/v1.0/swiftcss-full.css" />
 ```
-<link rel="stylesheet" href="http://node1.zampto.net:25625/SwiftCSS/css/v1.0/swiftcss-full.css" />
 
 ### Download Manuale
 
@@ -69,20 +68,7 @@ SwiftCSS si basa su un sistema di classi utility. Ecco un esempio rapido di come
 
 ```
 
-<div class="s-card s-shadow-lg s-p-6 s-rounded-xl s-bg-white">
-    <h3 class="s-text-2xl s-font-bold s-mb-4 s-text-primary">Titolo della Card</h3>
-    <p class="s-text-gray-700 s-mb-6">
-        Questa è una card di esempio creata con le classi utility di SwiftCSS.
-        Semplice, elegante e reattiva!
-    </p>
-    <button class="s-btn s-btn-primary s-rounded-full s-py-3 s-px-8">
-        Scopri di più
-    </button>
-</div>
 
-<button class="s-btn s-btn-secondary s-rounded-md s-mt-4">
-    Annulla
-</button>
 
 
 Queste classi (ad esempio, `s-card`, `s-shadow-lg`, `s-p-6`, `s-text-primary`, `s-btn`) forniscono stili predefiniti e componibili che puoi combinare per creare qualsiasi tipo di layout e componente.
