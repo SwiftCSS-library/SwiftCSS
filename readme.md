@@ -2,9 +2,10 @@
 
 -----
 
-[](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
-[](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
-[](https://github.com/SwiftCSS-library/SwiftCSS/network/members)
+[LICENSE](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
+[STARGAZES](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
+[https://img.shields.io/github/forks/SwiftCSS-library/SwiftCSS
+](https://github.com/SwiftCSS-library/SwiftCSS/network/members)
 [](https://discord.gg/RYntYyuay7)
 
 -----
