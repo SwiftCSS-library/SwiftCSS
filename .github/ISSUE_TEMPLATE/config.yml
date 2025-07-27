@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/SwiftCSS-library/SwiftCSS/discussions
+    about: Please ask and answer questions here.
+  - name: Discord
+    url: https://discord.gg/RYntYyuay7
+    about: Please report security vulnerabilities here.
