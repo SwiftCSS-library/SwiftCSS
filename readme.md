@@ -126,4 +126,12 @@ Have questions or suggestions? Join our community or reach out to us:
 
 ---
 
+## 📑 List of things do do
+
+- [x] 1.0
+- [ ] Buy Domain
+- [x] Discord Server
+- [x] LICENSE Integration
+- [x] Docs
+
 **We’re excited to see what you build with SwiftCSS!**
