@@ -3,7 +3,8 @@
 -----
 ![GitHub forks](https://img.shields.io/github/forks/SwiftCSS-library/SwiftCSS)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
-[![Discord](https://img.shields.io/discord/1399102025509109770)](https://discord.gg/RYntYyuay7)
+[![Discord](https://img.shields.io/discord/1399102025509109770?style=flat&logo=discord&label=Discord)
+](https://discord.gg/RYntYyuay7)
 [![GitHub Release](https://img.shields.io/github/v/release/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SwiftCSS-library/SwiftCSS/total)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
 [![GitHub commits since latest release](https://img.shields.io/github/commits-since/SwiftCSS-library/SwiftCSS/latest)]
