@@ -43,19 +43,8 @@ Per iniziare rapidamente, puoi semplicemente aggiungere il link al foglio di sti
 
 ### Download Manuale
 
-Scarica l'ultima versione di `swiftcss-full.css` o `swiftcss.min.css` dalla nostra [pagina delle release su GitHub](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/releases) e includila nel tuo progetto.
+Scarica l'ultima versione di `swiftcss-full.css` dalla nostra [pagina delle release su GitHub](https://github.com/SwiftCSS-library/SwiftCSS) e includila nel tuo progetto.
 
-### Con Gestore di Pacchetti (Prossimamente / Se applicabile)
-
-Se SwiftCSS dovesse essere disponibile su npm o yarn in futuro, le istruzioni sarebbero simili a queste:
-
-```bash
-npm install swiftcss
-# oppure
-yarn add swiftcss
-```
-
------
 
 ## 💡 Utilizzo
 
