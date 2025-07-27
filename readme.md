@@ -1,9 +1,14 @@
 # SwiftCSS: Il Tuo CSS, Ridefinito. Veloce, Semplice, Potente.
 
 -----
-https://img.shields.io/github/forks/SwiftCSS-library/SwiftCSS
+![GitHub forks](https://img.shields.io/github/forks/SwiftCSS-library/SwiftCSS)
+![GitHub Repo stars](https://img.shields.io/github/stars/SwiftCSS-library/SwiftCSS)
+![Discord](https://img.shields.io/discord/1399102025509109770)
+![GitHub Release](https://img.shields.io/github/v/release/SwiftCSS-library/SwiftCSS)
 
-[LICENSE](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
+
+[![GitHub License](https://img.shields.io/github/license/SwiftCSS-library/SwiftCSS)
+](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
 [STARGAZES](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
 [](https://github.com/SwiftCSS-library/SwiftCSS/network/members)
 [](https://discord.gg/RYntYyuay7)
