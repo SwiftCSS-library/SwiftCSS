@@ -1,40 +1,67 @@
-SwiftCSS: Il Tuo CSS, Ridefinito. Veloce, Semplice, Potente.
-SwiftCSS è un framework CSS leggero, modulare e orientato alle utility, progettato per accelerare lo sviluppo web e facilitare la creazione di interfacce utente moderne e reattive con il minimo sforzo. Dimentica il CSS tradizionale e abbraccia un workflow più rapido ed efficiente!
+# SwiftCSS: Il Tuo CSS, Ridefinito. Veloce, Semplice, Potente.
 
-🚀 Caratteristiche Principali
-Velocità Incredibile: Sviluppa interfacce utente a una velocità mai vista prima, grazie a un set di classi utility intuitive e predefinite.
+-----
 
-Modularità Flessibile: Include solo i componenti e le utility di cui hai realmente bisogno, mantenendo il bundle CSS leggero e ottimizzato.
+[](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/blob/main/LICENSE)
+[](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/stargazers)
+[](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/network/members)
+[](https://www.google.com/search?q=https://discord.gg/your-swiftcss-discord)
 
-Design Reattivo Nativamente: SwiftCSS è costruito con la reattività in mente, garantendo un'esperienza utente impeccabile su qualsiasi dispositivo e dimensione dello schermo.
+-----
 
-Leggerezza Assoluta: Con un footprint minimo, SwiftCSS assicura tempi di caricamento rapidi e un'esperienza fluida per i tuoi utenti finali.
+SwiftCSS è un framework CSS leggero, modulare e orientato alle **utility**, progettato per accelerare lo sviluppo web e facilitare la creazione di interfacce utente moderne e reattive con il minimo sforzo. Dimentica il CSS tradizionale e abbraccia un workflow più rapido ed efficiente\!
 
-Approccio Utility-First: Applica stili direttamente nel tuo HTML con classi atomiche e riutilizzabili, riducendo la necessità di scrivere CSS personalizzato.
+-----
 
-Personalizzabile: Facilmente configurabile per adattarsi alle tue esigenze di design e brand.
+## 🚀 Caratteristiche Principali
 
-📦 Installazione
+  * **Velocità Incredibile**: Sviluppa interfacce utente a una velocità mai vista prima, grazie a un set di classi utility intuitive e predefinite.
+
+  * **Modularità Flessibile**: Include solo i componenti e le utility di cui hai realmente bisogno, mantenendo il bundle CSS leggero e ottimizzato.
+
+  * **Design Reattivo Nativamente**: SwiftCSS è costruito con la reattività in mente, garantendo un'esperienza utente impeccabile su qualsiasi dispositivo e dimensione dello schermo.
+
+  * **Leggerezza Assoluta**: Con un footprint minimo, SwiftCSS assicura tempi di caricamento rapidi e un'esperienza fluida per i tuoi utenti finali.
+
+  * **Approccio Utility-First**: Applica stili direttamente nel tuo HTML con classi atomiche e riutilizzabili, riducendo la necessità di scrivere CSS personalizzato.
+
+  * **Personalizzabile**: Facilmente configurabile per adattarsi alle tue esigenze di design e brand.
+
+-----
+
+## 📦 Installazione
+
 Puoi includere SwiftCSS nel tuo progetto in diversi modi:
 
-Tramite CDN (Consigliato per iniziare)
-Per iniziare rapidamente, puoi semplicemente aggiungere il link al foglio di stile SwiftCSS nella sezione <head> del tuo file HTML:
+### Tramite CDN (Consigliato per iniziare)
 
+Per iniziare rapidamente, puoi semplicemente aggiungere il link al foglio di stile SwiftCSS nella sezione `<head>` del tuo file HTML:
+
+```html
 <link rel="stylesheet" href="http://node1.zampto.net:25625/SwiftCSS/css/v1.0/swiftcss-full.css" />
+```
 
-Download Manuale
-Scarica l'ultima versione di swiftcss-full.css o swiftcss.min.css dalla nostra pagina delle release su GitHub e includila nel tuo progetto.
+### Download Manuale
 
-Con Gestore di Pacchetti (Prossimamente / Se applicabile)
+Scarica l'ultima versione di `swiftcss-full.css` o `swiftcss.min.css` dalla nostra [pagina delle release su GitHub](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/releases) e includila nel tuo progetto.
+
+### Con Gestore di Pacchetti (Prossimamente / Se applicabile)
+
 Se SwiftCSS dovesse essere disponibile su npm o yarn in futuro, le istruzioni sarebbero simili a queste:
 
+```bash
 npm install swiftcss
 # oppure
 yarn add swiftcss
+```
 
-💡 Utilizzo
+-----
+
+## 💡 Utilizzo
+
 SwiftCSS si basa su un sistema di classi utility. Ecco un esempio rapido di come puoi stilizzare una card:
 
+```html
 <div class="s-card s-shadow-lg s-p-6 s-rounded-xl s-bg-white">
     <h3 class="s-text-2xl s-font-bold s-mb-4 s-text-primary">Titolo della Card</h3>
     <p class="s-text-gray-700 s-mb-6">
@@ -49,43 +76,60 @@ SwiftCSS si basa su un sistema di classi utility. Ecco un esempio rapido di come
 <button class="s-btn s-btn-secondary s-rounded-md s-mt-4">
     Annulla
 </button>
+```
 
-Queste classi (ad esempio, s-card, s-shadow-lg, s-p-6, s-text-primary, s-btn) forniscono stili predefiniti e componibili che puoi combinare per creare qualsiasi tipo di layout e componente.
+Queste classi (ad esempio, `s-card`, `s-shadow-lg`, `s-p-6`, `s-text-primary`, `s-btn`) forniscono stili predefiniti e componibili che puoi combinare per creare qualsiasi tipo di layout e componente.
 
-Per una guida completa su tutte le classi disponibili e la loro personalizzazione, consulta la nostra documentazione completa.
+Per una guida completa su tutte le classi disponibili e la loro personalizzazione, consulta la nostra [documentazione completa](http://node1.zampto.net:25625/SwiftCSS/docs.html).
 
-📚 Documentazione
+-----
+
+## 📚 Documentazione
+
 La documentazione completa di SwiftCSS, inclusi tutti i componenti, le utility, le opzioni di personalizzazione e gli esempi, è disponibile su:
 
-http://node1.zampto.net:25625/SwiftCSS/docs.html
+[**http://node1.zampto.net:25625/SwiftCSS/docs.html**](http://node1.zampto.net:25625/SwiftCSS/docs.html)
 
-🤝 Contribuire
-SwiftCSS è un progetto open source e accogliamo con favore i contributi della community! Se desideri contribuire, ecco come puoi farlo:
+-----
 
-Fai un fork del repository.
+## 🤝 Contribuire
 
-Crea un nuovo branch (git checkout -b feature/nome-nuova-feature).
+SwiftCSS è un progetto **open source** e accogliamo con favore i contributi della community\! Se desideri contribuire, ecco come puoi farlo:
 
-Apporta le tue modifiche.
+1.  Fai un **fork** del repository.
 
-Esegui i test (se presenti).
+2.  Crea un nuovo branch (`git checkout -b feature/nome-nuova-feature`).
 
-Fai il commit delle tue modifiche (git commit -m 'feat: aggiunge nuova feature').
+3.  Apporta le tue modifiche.
 
-Effettua il push sul branch (git push origin feature/nome-nuova-feature).
+4.  Esegui i test (se presenti).
 
-Apri una Pull Request descrivendo le tue modifiche.
+5.  Fai il commit delle tue modifiche (`git commit -m 'feat: aggiunge nuova feature'`).
 
-Per maggiori dettagli, consulta le nostre Linee Guida per i Contributi.
+6.  Effettua il push sul branch (`git push origin feature/nome-nuova-feature`).
 
-📄 Licenza
-SwiftCSS è rilasciato sotto licenza MIT. Per maggiori informazioni, consulta il file LICENSE.
+7.  Apri una **Pull Request** descrivendo le tue modifiche.
 
-📞 Contatti
+Per maggiori dettagli, consulta le nostre [Linee Guida per i Contributi](https://www.google.com/search?q=CONTRIBUTING.md).
+
+-----
+
+## 📄 Licenza
+
+SwiftCSS è rilasciato sotto **licenza MIT**. Per maggiori informazioni, consulta il file [LICENSE](https://www.google.com/search?q=LICENSE).
+
+-----
+
+## 📞 Contatti
+
 Hai domande o suggerimenti? Unisciti alla nostra community o contattaci:
 
-Discord: Unisciti al nostro server Discord: https://discord.gg/RYntYyuay7
+  * **Discord**: [Unisciti al nostro server Discord](https://discord.gg/RYntYyuay7)
 
-GitHub Issues: Segnala un bug o proponi una feature
+  * **GitHub Issues**: [Segnala un bug o proponi una feature](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/issues)
 
-Siamo entusiasti di vedere cosa costruirai con SwiftCSS!
+  * **Email**: [supporto@swiftcss.com](mailto:supporto@swiftcss.com) (Sostituisci con la tua email di supporto)
+
+-----
+
+**Siamo entusiasti di vedere cosa costruirai con SwiftCSS\!**
