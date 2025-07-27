@@ -2,10 +2,10 @@
 
 -----
 
-[](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/blob/main/LICENSE)
-[](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/stargazers)
-[](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/network/members)
-[](https://www.google.com/search?q=https://discord.gg/your-swiftcss-discord)
+[](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
+[](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
+[](https://github.com/SwiftCSS-library/SwiftCSS/network/members)
+[](https://discord.gg/RYntYyuay7)
 
 -----
 
@@ -116,7 +116,7 @@ Per maggiori dettagli, consulta le nostre [Linee Guida per i Contributi](https:/
 
 ## 📄 Licenza
 
-SwiftCSS è rilasciato sotto **licenza MIT**. Per maggiori informazioni, consulta il file [LICENSE](https://www.google.com/search?q=LICENSE).
+SwiftCSS è rilasciato sotto **licenza MIT**. Per maggiori informazioni, consulta il file [LICENSE](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE).
 
 -----
 
@@ -126,9 +126,8 @@ Hai domande o suggerimenti? Unisciti alla nostra community o contattaci:
 
   * **Discord**: [Unisciti al nostro server Discord](https://discord.gg/RYntYyuay7)
 
-  * **GitHub Issues**: [Segnala un bug o proponi una feature](https://www.google.com/search?q=https://github.com/tuo-username/SwiftCSS/issues)
+  * **GitHub Issues**: [Segnala un bug o proponi una feature](https://github.com/SwiftCSS-library/SwiftCSS/issues)
 
-  * **Email**: [supporto@swiftcss.com](mailto:supporto@swiftcss.com) (Sostituisci con la tua email di supporto)
 
 -----
 
