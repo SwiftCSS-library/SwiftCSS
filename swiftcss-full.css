@@ -1009,3 +1009,33 @@
 .resize { resize: both; }
 .scroll-auto { scroll-behavior: auto; }
 .scroll-smooth { scroll-behavior: smooth; }
+.filter-url-none { filter: url(#none); }
+.filter-url-duotone { filter: url(#duotone); }
+.filter-url-lighten { filter: url(#lighten); }
+.filter-url-darken { filter: url(#darken); }
+.clip-path-none { clip-path: none; }
+.clip-path-circle { clip-path: circle(); }
+.clip-path-ellipse { clip-path: ellipse(); }
+.clip-path-polygon { clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); }
+.appearance-auto { appearance: auto; -webkit-appearance: auto; }
+.backdrop-blur-none { backdrop-filter: none; }
+.backdrop-blur-sm { backdrop-filter: blur(4px); }
+.backdrop-blur-md { backdrop-filter: blur(8px); }
+.backdrop-blur-lg { backdrop-filter: blur(16px); }
+.backdrop-brightness-50 { backdrop-filter: brightness(0.5); }
+.backdrop-brightness-75 { backdrop-filter: brightness(0.75); }
+.backdrop-brightness-100 { backdrop-filter: brightness(1); }
+.backdrop-contrast-50 { backdrop-filter: contrast(0.5); }
+.backdrop-contrast-100 { backdrop-filter: contrast(1); }
+.backdrop-contrast-150 { backdrop-filter: contrast(1.5); }
+.backdrop-grayscale { backdrop-filter: grayscale(100%); }
+.backdrop-hue-rotate { backdrop-filter: hue-rotate(90deg); }
+.backdrop-invert { backdrop-filter: invert(100%); }
+.backdrop-opacity-50 { backdrop-filter: opacity(0.5); }
+.backdrop-sepia { backdrop-filter: sepia(100%); }
+.backface-hidden { backface-visibility: hidden; }
+.backface-visible { backface-visibility: visible; }
+.pointer-events-auto { pointer-events: auto; }
+.pointer-events-none { pointer-events: none; }
+.isolation-auto { isolation: auto; }
+.isolation-isolate { isolation: isolate; }
