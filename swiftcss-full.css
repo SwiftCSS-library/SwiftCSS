@@ -937,37 +937,6 @@
 .filter-opacity { filter: opacity(0.5); }
 .text-ellipsis { text-overflow: ellipsis; }
 .text-clip { text-overflow: clip; }
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border-width: 0;
-}
-.not-sr-only {
-  position: static;
-  width: auto;
-  height: auto;
-  padding: 0;
-  margin: 0;
-  overflow: visible;
-  clip: auto;
-  white-space: normal;
-}
-.sr-only:focus {
-  position: static;
-  width: auto;
-  height: auto;
-  padding: 0;
-  margin: 0;
-  overflow: visible;
-  clip: auto;
-  white-space: normal;
-}
 .float-left { float: left; }
 .float-right { float: right; }
 .float-none { float: none; }
@@ -1012,3 +981,31 @@
 .print-flex { display: flex !important; }
 .print-grid { display: grid !important; }
 .print-hidden { display: none !important; }
+.bg-clip-border { background-clip: border-box; }
+.bg-clip-padding { background-clip: padding-box; }
+.bg-clip-content { background-clip: content-box; }
+.bg-clip-text { background-clip: text; }
+.bg-origin-border { background-origin: border-box; }
+.bg-origin-padding { background-origin: padding-box; }
+.bg-origin-content { background-origin: content-box; }
+.outline-none { outline: 0; }
+.outline { outline-width: 1px; outline-style: solid; outline-color: var(--color-gray-dark); }
+.outline-dashed { outline-style: dashed; }
+.outline-dotted { outline-style: dotted; }
+.outline-offset-1 { outline-offset: 1px; }
+.outline-offset-2 { outline-offset: 2px; }
+.outline-offset-4 { outline-offset: 4px; }
+.outline-offset-8 { outline-offset: 8px; }
+.outline-red { outline-color: var(--color-red); }
+.outline-blue { outline-color: var(--color-blue); }
+.outline-green { outline-color: var(--color-green); }
+.select-none { user-select: none; }
+.select-text { user-select: text; }
+.select-all { user-select: all; }
+.select-auto { user-select: auto; }
+.resize-none { resize: none; }
+.resize-y { resize: vertical; }
+.resize-x { resize: horizontal; }
+.resize { resize: both; }
+.scroll-auto { scroll-behavior: auto; }
+.scroll-smooth { scroll-behavior: smooth; }
