@@ -1039,3 +1039,31 @@
 .pointer-events-none { pointer-events: none; }
 .isolation-auto { isolation: auto; }
 .isolation-isolate { isolation: isolate; }
+.snap-none { scroll-snap-type: none; }
+.snap-x { scroll-snap-type: x var(--swift-scroll-snap-strictness, proximity); }
+.snap-y { scroll-snap-type: y var(--swift-scroll-snap-strictness, proximity); }
+.snap-both { scroll-snap-type: both var(--swift-scroll-snap-strictness, proximity); }
+.snap-mandatory { --swift-scroll-snap-strictness: mandatory; }
+.snap-proximity { --swift-scroll-snap-strictness: proximity; }
+.snap-start { scroll-snap-align: start; }
+.snap-end { scroll-snap-align: end; }
+.snap-center { scroll-snap-align: center; }
+.snap-always { scroll-snap-stop: always; }
+.snap-normal { scroll-snap-stop: normal; }
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+.aspect-auto { aspect-ratio: auto; }
+.aspect-square { aspect-ratio: 1 / 1; }
+.aspect-video { aspect-ratio: 16 / 9; }
+.content-visibility-auto { content-visibility: auto; }
+.content-visibility-hidden { content-visibility: hidden; }
+.content-visibility-visible { content-visibility: visible; }
