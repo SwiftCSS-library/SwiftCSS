@@ -57,7 +57,7 @@ You can include SwiftCSS in your project in several ways:
 To get started quickly, just add the SwiftCSS stylesheet link to the `<head>` of your HTML file:
 
 ```html
-<link rel="stylesheet" href="http://node1.zampto.net:25625/SwiftCSS/css/v1.0/swiftcss-full.css" />
+<link rel="stylesheet" href="http://node1.zampto.net:25604/css/v1.0/swiftcss-full.css" />
 ```
 
 ### Manual Download
