@@ -92,7 +92,7 @@ SwiftCSS is based on a utility class system. Here's a quick example of how to st
 
 These classes (e.g., `s-card`, `s-shadow-lg`, `s-p-6`, `s-text-primary`, `s-btn`) provide predefined, composable styles that you can combine to create any kind of layout or component.
 
-For a complete guide on all available classes and customization options, check out our [full documentation](http://node1.zampto.net:25625/SwiftCSS/docs.html).
+For a complete guide on all available classes and customization options, check out our [full documentation](http://node1.zampto.net:25604/docs.html).
 
 ---
 
@@ -100,7 +100,7 @@ For a complete guide on all available classes and customization options, check o
 
 The full SwiftCSS documentation—including all components, utilities, customization options, and examples—is available at:
 
-[**http://node1.zampto.net:25625/SwiftCSS/docs.html**](http://node1.zampto.net:25625/SwiftCSS/docs.html)
+[**http://node1.zampto.net:25604/docs.html**](http://node1.zampto.net:25604/docs.html)
 
 ---
 
