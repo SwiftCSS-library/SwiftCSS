@@ -1,24 +1,24 @@
 ---
 
-# SwiftCSS: Your CSS, Redefined. Fast, Simple, Powerful.
+# VegaCSS: Your CSS, Redefined. Fast, Simple, Powerful.
 
 ---
 Drester's Things
 ---
 ## 🪁 Statistics
 
-![GitHub forks](https://img.shields.io/github/forks/SwiftCSS-library/SwiftCSS)
-[![GitHub Repo stars](https://img.shields.io/github/stars/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/VegaCSS/VegaCSS)
+[![GitHub Repo stars](https://img.shields.io/github/stars/VegaCSS/VegaCSS)](https://github.com/VegaCSS/VegaCSS/stargazers)
 [![Discord](https://img.shields.io/discord/1399102025509109770?style=flat\&logo=discord\&label=Discord)
 ](https://discord.gg/RYntYyuay7)
-[![GitHub Release](https://img.shields.io/github/v/release/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SwiftCSS-library/SwiftCSS/total)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/SwiftCSS-library/SwiftCSS/latest)
-[![GitHub License](https://img.shields.io/github/license/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/VegaCSS/VegaCSS)](https://github.com/VegaCSS/VegaCSS/releases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/VegaCSS/VegaCSS/total)](https://github.com/VegaCSS/VegaCSS/releases)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/VegaCSS/VegaCSS/latest)
+[![GitHub License](https://img.shields.io/github/license/VegaCSS/VegaCSS)](https://github.com/VegaCSS/VegaCSS/blob/main/LICENSE)
 
 ---
 
-SwiftCSS is a lightweight, modular, utility-first CSS framework designed to speed up web development and simplify the creation of modern, responsive user interfaces with minimal effort. Forget traditional CSS and embrace a faster, more efficient workflow!
+VegaCSS is a lightweight, modular, utility-first CSS framework designed to speed up web development and simplify the creation of modern, responsive user interfaces with minimal effort. Forget traditional CSS and embrace a faster, more efficient workflow!
 
 ---
 
@@ -41,9 +41,9 @@ SwiftCSS is a lightweight, modular, utility-first CSS framework designed to spee
 
 * **Flexible Modularity**: Include only the components and utilities you actually need, keeping your CSS bundle lightweight and optimized.
 
-* **Built-in Responsiveness**: SwiftCSS is designed with responsiveness in mind, ensuring a perfect user experience on any device and screen size.
+* **Built-in Responsiveness**: VegaCSS is designed with responsiveness in mind, ensuring a perfect user experience on any device and screen size.
 
-* **Ultra Lightweight**: With a minimal footprint, SwiftCSS guarantees fast loading times and a smooth experience for your end users.
+* **Ultra Lightweight**: With a minimal footprint, VegaCSS guarantees fast loading times and a smooth experience for your end users.
 
 * **Utility-First Approach**: Apply styles directly in your HTML using atomic, reusable classes—no need to write custom CSS.
 
@@ -53,31 +53,31 @@ SwiftCSS is a lightweight, modular, utility-first CSS framework designed to spee
 
 ## 📦 Installation
 
-You can include SwiftCSS in your project in several ways:
+You can include VegaCSS in your project in several ways:
 
 ### Via CDN (Recommended for Getting Started)
 
-To get started quickly, just add the SwiftCSS stylesheet link to the `<head>` of your HTML file:
+To get started quickly, just add the VegaCSS stylesheet link to the `<head>` of your HTML file:
 
 ```html
-<link rel="stylesheet" href="http://node1.zampto.net:25604/css/v1.0/swiftcss-full.css" />
+<link rel="stylesheet" href="http://node1.zampto.net:25604/css/v1.0/VegaCSS-full.css" />
 ```
 
 ### Manual Download
 
-Download the latest version of `swiftcss-full.css` from our [GitHub release page](https://github.com/SwiftCSS-library/SwiftCSS) and include it in your project.
+Download the latest version of `VegaCSS-full.css` from our [GitHub release page](https://github.com/VegaCSS/VegaCSS) and include it in your project.
 
 ---
 
 ## 💡 Usage
 
-SwiftCSS is based on a utility class system. Here's a quick example of how to style a card:
+VegaCSS is based on a utility class system. Here's a quick example of how to style a card:
 
 ```html
 <div class="s-card s-shadow-lg s-p-6 s-rounded-xl s-bg-white">
     <h3 class="s-text-2xl s-font-bold s-mb-4 s-text-primary">Card Title</h3>
     <p class="s-text-gray-700 s-mb-6">
-        This is a sample card created using SwiftCSS utility classes.
+        This is a sample card created using VegaCSS utility classes.
         Simple, elegant, and responsive!
     </p>
     <button class="s-btn s-btn-primary s-rounded-full s-py-3 s-px-8">
@@ -98,7 +98,7 @@ For a complete guide on all available classes and customization options, check o
 
 ## 📚 Documentation
 
-The full SwiftCSS documentation—including all components, utilities, customization options, and examples—is available at:
+The full VegaCSS documentation—including all components, utilities, customization options, and examples—is available at:
 
 [**http://node1.zampto.net:25604/docs.html**](http://node1.zampto.net:25604/docs.html)
 
@@ -106,7 +106,7 @@ The full SwiftCSS documentation—including all components, utilities, customiza
 
 ## 🤝 Contributing
 
-SwiftCSS is an **open source** project, and we welcome community contributions! If you'd like to contribute, here's how:
+VegaCSS is an **open source** project, and we welcome community contributions! If you'd like to contribute, here's how:
 
 1. Fork the repository.
 
@@ -122,13 +122,13 @@ SwiftCSS is an **open source** project, and we welcome community contributions! 
 
 7. Open a **Pull Request** describing your changes.
 
-For more details, see our [Contribution Guidelines](https://github.com/SwiftCSS-library/SwiftCSS/tree/main).
+For more details, see our [Contribution Guidelines](https://github.com/VegaCSS/VegaCSS/tree/main).
 
 ---
 
 ## 📄 License
 
-SwiftCSS is released under the **MIT License**. For more information, see the [LICENSE file](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE).
+VegaCSS is released under the **MIT License**. For more information, see the [LICENSE file](https://github.com/VegaCSS/VegaCSS/blob/main/LICENSE).
 
 ---
 
@@ -138,7 +138,7 @@ Have questions or suggestions? Join our community or reach out to us:
 
 * **Discord**: [Join our Discord server](https://discord.gg/RYntYyuay7)
 
-* **GitHub Issues**: [Report a bug or request a feature](https://github.com/SwiftCSS-library/SwiftCSS/issues)
+* **GitHub Issues**: [Report a bug or request a feature](https://github.com/VegaCSS/VegaCSS/issues)
 
 ---
 
@@ -151,4 +151,4 @@ Have questions or suggestions? Join our community or reach out to us:
 - [x] Docs
 - [x] Stats
 
-**We’re excited to see what you build with SwiftCSS!**
+**We’re excited to see what you build with VegaCSS!**
