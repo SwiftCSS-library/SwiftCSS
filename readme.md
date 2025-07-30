@@ -3,6 +3,9 @@
 # SwiftCSS: Your CSS, Redefined. Fast, Simple, Powerful.
 
 ---
+Drester's Things
+---
+## 🪁 Statistics
 
 ![GitHub forks](https://img.shields.io/github/forks/SwiftCSS-library/SwiftCSS)
 [![GitHub Repo stars](https://img.shields.io/github/stars/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/stargazers)
@@ -10,7 +13,7 @@
 ](https://discord.gg/RYntYyuay7)
 [![GitHub Release](https://img.shields.io/github/v/release/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SwiftCSS-library/SwiftCSS/total)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
-\[![GitHub commits since latest release](https://img.shields.io/github/commits-since/SwiftCSS-library/SwiftCSS/latest)]
+[![GitHub commits since latest release](https://img.shields.io/github/commits-since/SwiftCSS-library/SwiftCSS/latest)]
 [![GitHub License](https://img.shields.io/github/license/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
 
 ---
