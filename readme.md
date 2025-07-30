@@ -13,7 +13,7 @@ Drester's Things
 ](https://discord.gg/RYntYyuay7)
 [![GitHub Release](https://img.shields.io/github/v/release/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SwiftCSS-library/SwiftCSS/total)](https://github.com/SwiftCSS-library/SwiftCSS/releases)
-[![GitHub commits since latest release](https://img.shields.io/github/commits-since/SwiftCSS-library/SwiftCSS/latest)]
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/SwiftCSS-library/SwiftCSS/latest)
 [![GitHub License](https://img.shields.io/github/license/SwiftCSS-library/SwiftCSS)](https://github.com/SwiftCSS-library/SwiftCSS/blob/main/LICENSE)
 
 ---
