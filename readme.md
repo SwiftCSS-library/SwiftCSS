@@ -1,9 +1,9 @@
 ---
 
-# VegaCSS: Your CSS, Redefined. Fast, Simple, Powerful.
+# VegaCSS: Your CSS, Redefined. Fast, Simple, Powerful
 
 ---
-Drester's Things gg
+Drester's Things 
 ---
 ## 🪁 Statistics
 
